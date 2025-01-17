@@ -103,13 +103,7 @@ Para ejecutar el proyecto, necesitas iniciar tanto el frontend como el backend p
 **Frontend:**
 
 1.  Abrir una nueva terminal.
-2.  Estando aún en la raiz del proyecto:
-
-    ```bash
-    cd frontend
-    ```
-
-3.  Ejecutar el servidor de desarrollo de Vue:
+2.  Estando aún en la raiz del proyecto ejecutar el servidor de desarrollo de Vue:
 
     ```bash
     npm run dev # o yarn dev
