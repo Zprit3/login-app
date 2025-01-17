@@ -43,7 +43,7 @@ Este proyecto proporciona un sistema de autenticación con registro, inicio de s
 1.  Clonar el repositorio:
 
     ```bash
-    git clone [https://github.com/Zprit3/login-app.git](https://github.com/Zprit3/login-app.git)
+    git clone [Repositorio del proyecto](https://github.com/Zprit3/login-app.git)
     cd login-app (o hasta llegar a la raiz del proyecto)
     ```
 
